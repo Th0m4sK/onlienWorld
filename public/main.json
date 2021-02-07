@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/hacklabor.gitlab.io\/online_world\/hack.json"
+                 "value":"hack.json"
                 }],
          "type":"tilelayer",
          "visible":true,
