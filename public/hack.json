@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/hacklabor.gitlab.io\/online_world\/main.json"
+                 "value":"\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
