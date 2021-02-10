@@ -31,7 +31,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/somafm.com\/m3u\/defcon256.m3u"
+                 "value":"https:\/\/radio.chaoszone.tv\/zonenradio.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
