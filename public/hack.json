@@ -50,7 +50,7 @@
          "height":50,
          "id":48,
          "name":"DefconRadio",
-         "opacity":0.2,
+         "opacity":0.05,
          "properties":[
                 {
                  "name":"playAudio",
