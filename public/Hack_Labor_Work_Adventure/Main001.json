@@ -92,6 +92,23 @@
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":231,
+                 "type":"DisappearingCollision"
+                }, 
+                {
+                 "id":263,
+                 "type":"DisappearingCollision"
+                }, 
+                {
+                 "id":264,
+                 "type":"DisappearingCollision"
+                }, 
+                {
+                 "id":296,
+                 "type":"DisappearingCollision"
+                }],
          "tilewidth":32
         }, 
         {
