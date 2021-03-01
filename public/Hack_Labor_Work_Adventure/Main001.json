@@ -295,6 +295,19 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":30,
+         "firstgid":3287,
+         "image":"d801ty3-e144d320-240b-4e4f-87b6-9917192621b4.png",
+         "imageheight":960,
+         "imagewidth":960,
+         "margin":0,
+         "name":"d801ty3-e144d320-240b-4e4f-87b6-9917192621b4",
+         "spacing":0,
+         "tilecount":900,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
