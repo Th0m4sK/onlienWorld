@@ -374,6 +374,19 @@
          "tilecount":3600,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":59,
+         "firstgid":6887,
+         "image":"Office and Home.png",
+         "imageheight":1914,
+         "imagewidth":1914,
+         "margin":0,
+         "name":"Office and Home",
+         "spacing":0,
+         "tilecount":3481,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
