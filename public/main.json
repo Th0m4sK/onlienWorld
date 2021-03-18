@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main1.json"
+                 "value":"Hack_Labor_Work_Adventure\/main1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
